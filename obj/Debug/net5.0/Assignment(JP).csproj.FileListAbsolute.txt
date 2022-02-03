@@ -1,0 +1,32 @@
+C:\Users\jkim26\Desktop\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).exe
+C:\Users\jkim26\Desktop\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).deps.json
+C:\Users\jkim26\Desktop\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).runtimeconfig.json
+C:\Users\jkim26\Desktop\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).runtimeconfig.dev.json
+C:\Users\jkim26\Desktop\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).dll
+C:\Users\jkim26\Desktop\Assignment(JP)\bin\Debug\net5.0\ref\Assignment(JP).dll
+C:\Users\jkim26\Desktop\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).pdb
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).csproj.AssemblyReference.cache
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).AssemblyInfoInputs.cache
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).AssemblyInfo.cs
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).csproj.CoreCompileInputs.cache
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).dll
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\ref\Assignment(JP).dll
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).pdb
+C:\Users\jkim26\Desktop\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).genruntimeconfig.cache
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).exe
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).deps.json
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).runtimeconfig.json
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).runtimeconfig.dev.json
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).dll
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\bin\Debug\net5.0\ref\Assignment(JP).dll
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\bin\Debug\net5.0\Assignment(JP).pdb
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).csproj.AssemblyReference.cache
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).AssemblyInfoInputs.cache
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).AssemblyInfo.cs
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).csproj.CoreCompileInputs.cache
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).dll
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\ref\Assignment(JP).dll
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).pdb
+C:\Users\jkim26\Desktop\Net Databases Programming\Assignment(JP)\obj\Debug\net5.0\Assignment(JP).genruntimeconfig.cache
